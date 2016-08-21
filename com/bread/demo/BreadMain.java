@@ -11,6 +11,7 @@ public class BreadMain {
 		System.out.println("Version 2 is here");
 		System.out.println("Second cut");
 		System.out.println("Bug is fixed");
+		System.out.println("Second cut finished");
 	}
 
 }
